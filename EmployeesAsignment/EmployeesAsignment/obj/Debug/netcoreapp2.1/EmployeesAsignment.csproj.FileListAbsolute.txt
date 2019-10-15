@@ -1,0 +1,11 @@
+C:\Users\Vankata\Desktop\EmployeesAsignment\EmployeesAsignment\bin\Debug\netcoreapp2.1\EmployeesAsignment.deps.json
+C:\Users\Vankata\Desktop\EmployeesAsignment\EmployeesAsignment\bin\Debug\netcoreapp2.1\EmployeesAsignment.runtimeconfig.json
+C:\Users\Vankata\Desktop\EmployeesAsignment\EmployeesAsignment\bin\Debug\netcoreapp2.1\EmployeesAsignment.runtimeconfig.dev.json
+C:\Users\Vankata\Desktop\EmployeesAsignment\EmployeesAsignment\bin\Debug\netcoreapp2.1\EmployeesAsignment.dll
+C:\Users\Vankata\Desktop\EmployeesAsignment\EmployeesAsignment\bin\Debug\netcoreapp2.1\EmployeesAsignment.pdb
+C:\Users\Vankata\Desktop\EmployeesAsignment\EmployeesAsignment\obj\Debug\netcoreapp2.1\EmployeesAsignment.csproj.CoreCompileInputs.cache
+C:\Users\Vankata\Desktop\EmployeesAsignment\EmployeesAsignment\obj\Debug\netcoreapp2.1\EmployeesAsignment.AssemblyInfoInputs.cache
+C:\Users\Vankata\Desktop\EmployeesAsignment\EmployeesAsignment\obj\Debug\netcoreapp2.1\EmployeesAsignment.AssemblyInfo.cs
+C:\Users\Vankata\Desktop\EmployeesAsignment\EmployeesAsignment\obj\Debug\netcoreapp2.1\EmployeesAsignment.dll
+C:\Users\Vankata\Desktop\EmployeesAsignment\EmployeesAsignment\obj\Debug\netcoreapp2.1\EmployeesAsignment.pdb
+C:\Users\Vankata\Desktop\EmployeesAsignment\EmployeesAsignment\obj\Debug\netcoreapp2.1\EmployeesAsignment.csprojAssemblyReference.cache

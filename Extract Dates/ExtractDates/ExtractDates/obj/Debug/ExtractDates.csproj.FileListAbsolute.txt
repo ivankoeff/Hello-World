@@ -1,0 +1,20 @@
+C:\Users\Vankata\Desktop\Extract Dates\ExtractDates\ExtractDates\bin\Debug\ExtractDates.exe.config
+C:\Users\Vankata\Desktop\Extract Dates\ExtractDates\ExtractDates\bin\Debug\ExtractDates.exe
+C:\Users\Vankata\Desktop\Extract Dates\ExtractDates\ExtractDates\bin\Debug\ExtractDates.pdb
+C:\Users\Vankata\Desktop\Extract Dates\ExtractDates\ExtractDates\obj\Debug\ExtractDates.csprojAssemblyReference.cache
+C:\Users\Vankata\Desktop\Extract Dates\ExtractDates\ExtractDates\obj\Debug\ExtractDates.Form1.resources
+C:\Users\Vankata\Desktop\Extract Dates\ExtractDates\ExtractDates\obj\Debug\ExtractDates.Properties.Resources.resources
+C:\Users\Vankata\Desktop\Extract Dates\ExtractDates\ExtractDates\obj\Debug\ExtractDates.csproj.GenerateResource.cache
+C:\Users\Vankata\Desktop\Extract Dates\ExtractDates\ExtractDates\obj\Debug\ExtractDates.csproj.CoreCompileInputs.cache
+C:\Users\Vankata\Desktop\Extract Dates\ExtractDates\ExtractDates\obj\Debug\ExtractDates.exe
+C:\Users\Vankata\Desktop\Extract Dates\ExtractDates\ExtractDates\obj\Debug\ExtractDates.pdb
+D:\Dokumenti\Материали за ПУ\Projex\Extract Dates\ExtractDates\ExtractDates\obj\Debug\ExtractDates.csprojAssemblyReference.cache
+D:\Dokumenti\Материали за ПУ\Projex\Extract Dates\ExtractDates\ExtractDates\obj\Debug\ExtractDates.Form1.resources
+D:\Dokumenti\Материали за ПУ\Projex\Extract Dates\ExtractDates\ExtractDates\obj\Debug\ExtractDates.Properties.Resources.resources
+D:\Dokumenti\Материали за ПУ\Projex\Extract Dates\ExtractDates\ExtractDates\obj\Debug\ExtractDates.csproj.GenerateResource.cache
+D:\Dokumenti\Материали за ПУ\Projex\Extract Dates\ExtractDates\ExtractDates\obj\Debug\ExtractDates.csproj.CoreCompileInputs.cache
+D:\Dokumenti\Материали за ПУ\Projex\Extract Dates\ExtractDates\ExtractDates\obj\Debug\ExtractDates.exe
+D:\Dokumenti\Материали за ПУ\Projex\Extract Dates\ExtractDates\ExtractDates\obj\Debug\ExtractDates.pdb
+D:\Dokumenti\Материали за ПУ\Projex\Extract Dates\ExtractDates\ExtractDates\bin\Debug\ExtractDates.exe.config
+D:\Dokumenti\Материали за ПУ\Projex\Extract Dates\ExtractDates\ExtractDates\bin\Debug\ExtractDates.exe
+D:\Dokumenti\Материали за ПУ\Projex\Extract Dates\ExtractDates\ExtractDates\bin\Debug\ExtractDates.pdb

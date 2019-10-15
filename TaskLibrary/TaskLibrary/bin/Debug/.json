@@ -1,0 +1,20 @@
+{
+  "listOfFictions": [],
+  "listOfMagazines": [],
+  "listOfNewspaper": [
+    {
+      "Type": "daily",
+      "Editor": "asd",
+      "MainTopicForTheEdition": "Economics",
+      "Year": 2019,
+      "EditionNumber": 20193009,
+      "ISBN": "123",
+      "Title": "ASD",
+      "Language": "asd",
+      "Publishers": "asd",
+      "CopiesAvailable": 2
+    }
+  ],
+  "listOfScientificArticles": [],
+  "listOfTechLit": []
+}

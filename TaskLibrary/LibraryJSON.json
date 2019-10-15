@@ -1,0 +1,210 @@
+{
+  "listOfFictions": [
+    {
+      "Genre": "Fiction",
+      "Audience": "All",
+      "EditionNumber": 12,
+      "CoverType": "Hard cover",
+      "HasImages": null,
+      "ReleaseDate": "2019-10-03T00:00:00",
+      "Authors": "Jack London",
+      "PageCount": 200,
+      "ISBN": "181235672a",
+      "Title": "White Fang",
+      "Language": "English",
+      "Publishers": "unknown",
+      "CopiesAvailable": 3
+    },
+    {
+      "Genre": "Fiction",
+      "Audience": "All",
+      "EditionNumber": 13,
+      "CoverType": "Soft cover",
+      "HasImages": null,
+      "ReleaseDate": "2019-10-03T00:00:00",
+      "Authors": "Mark Twain",
+      "PageCount": 200,
+      "ISBN": "14256236354e",
+      "Title": "Tom Soyer",
+      "Language": "English",
+      "Publishers": "unknown",
+      "CopiesAvailable": 2
+    },
+    {
+      "Genre": "Comedy",
+      "Audience": "Children",
+      "EditionNumber": 12,
+      "CoverType": "Soft cover",
+      "HasImages": null,
+      "ReleaseDate": "2019-10-03T00:00:00",
+      "Authors": "Astrid Lindgren",
+      "PageCount": 200,
+      "ISBN": "12364537457634f",
+      "Title": "Emil from Lonneberga",
+      "Language": "English",
+      "Publishers": "unknown",
+      "CopiesAvailable": 3
+    }
+  ],
+  "listOfMagazines": [
+    {
+      "Topic": "Cars",
+      "Authors": "Alex Kursten",
+      "FrontCoverDescription": "The new heart of the Miata ",
+      "Year": 2019,
+      "EditionNumber": 201902,
+      "ISBN": "213523453d",
+      "Title": "Car Throttle",
+      "Language": "English",
+      "Publishers": "unknown",
+      "CopiesAvailable": 2
+    },
+    {
+      "Topic": "Finances",
+      "Authors": "Steve Forbes",
+      "FrontCoverDescription": "The new Mobile Moguls",
+      "Year": 2019,
+      "EditionNumber": 201903,
+      "ISBN": "1235456456",
+      "Title": "Forbes",
+      "Language": "English",
+      "Publishers": "unknown",
+      "CopiesAvailable": 2
+    },
+    {
+      "Topic": "Cars",
+      "Authors": "Jeremy Clarcson",
+      "FrontCoverDescription": "The new Tesla Model S",
+      "Year": 2019,
+      "EditionNumber": 201910,
+      "ISBN": "123547567456",
+      "Title": "BBC Top Gear",
+      "Language": "English",
+      "Publishers": "BBC One",
+      "CopiesAvailable": 5
+    }
+  ],
+  "listOfNewspaper": [
+    {
+      "Type": "daily",
+      "Editor": "unknown",
+      "MainTopicForTheEdition": "Politics",
+      "Year": 2019,
+      "EditionNumber": 20191003,
+      "ISBN": "1213557634",
+      "Title": "24 Hours",
+      "Language": "Bulgarian",
+      "Publishers": "unknown",
+      "CopiesAvailable": 5
+    },
+    {
+      "Type": "daily",
+      "Editor": "unknown",
+      "MainTopicForTheEdition": "Economics",
+      "Year": 2019,
+      "EditionNumber": 20191003,
+      "ISBN": "1231355765",
+      "Title": "Standart",
+      "Language": "Bulgarian",
+      "Publishers": "unknown",
+      "CopiesAvailable": 2
+    },
+    {
+      "Type": "weekly",
+      "Editor": "unknown",
+      "MainTopicForTheEdition": "Economics and Politics",
+      "Year": 2019,
+      "EditionNumber": 2019010810,
+      "ISBN": "23456347654",
+      "Title": "168 Hours",
+      "Language": "Bulgarian",
+      "Publishers": "unknown",
+      "CopiesAvailable": 5
+    }
+  ],
+  "listOfScientificArticles": [
+    {
+      "ScientificFiled": "Physics",
+      "RecomendedLiterature": "Physics basics",
+      "ReleaseDate": "2019-10-03T00:00:00",
+      "Authors": "Isac Newton",
+      "PageCount": 2,
+      "ISBN": "123353",
+      "Title": "The Newton Law",
+      "Language": "English",
+      "Publishers": "unknown",
+      "CopiesAvailable": 2
+    },
+    {
+      "ScientificFiled": "Astrophysics",
+      "RecomendedLiterature": "Astrophysics advanced books",
+      "ReleaseDate": "2019-10-03T00:00:00",
+      "Authors": "Albert Einstein",
+      "PageCount": 5,
+      "ISBN": "78576364578",
+      "Title": "Einstein's bridge",
+      "Language": "English",
+      "Publishers": "unknown",
+      "CopiesAvailable": 3
+    },
+    {
+      "ScientificFiled": "physics",
+      "RecomendedLiterature": "physics basics",
+      "ReleaseDate": "2019-10-03T00:00:00",
+      "Authors": "Isac Newton",
+      "PageCount": 5,
+      "ISBN": "12354575654",
+      "Title": "Newton's thrid law",
+      "Language": "English",
+      "Publishers": "unknown",
+      "CopiesAvailable": 1
+    }
+  ],
+  "listOfTechLit": [
+    {
+      "ScientificField": "Technologies",
+      "AudienceLevel": "Average",
+      "EditionNumber": 24516134,
+      "CoverType": "Soft cover",
+      "HasImages": null,
+      "ReleaseDate": "2019-10-03T00:00:00",
+      "Authors": "Samsung",
+      "PageCount": 20,
+      "ISBN": "2345464765",
+      "Title": "Samsung TV Manual",
+      "Language": "English",
+      "Publishers": "unknown",
+      "CopiesAvailable": 2
+    },
+    {
+      "ScientificField": "Technologies",
+      "AudienceLevel": "Average",
+      "EditionNumber": 1,
+      "CoverType": "Soft Cover",
+      "HasImages": null,
+      "ReleaseDate": "2019-10-03T00:00:00",
+      "Authors": "Bulsatcom",
+      "PageCount": 5,
+      "ISBN": "674356456",
+      "Title": "Bulsatcom Dish installation",
+      "Language": "Bulgarian",
+      "Publishers": "unknown",
+      "CopiesAvailable": 3
+    },
+    {
+      "ScientificField": "Car manual",
+      "AudienceLevel": "Basic",
+      "EditionNumber": 1,
+      "CoverType": "Soft cover",
+      "HasImages": null,
+      "ReleaseDate": "2019-10-03T00:00:00",
+      "Authors": "BMW",
+      "PageCount": 200,
+      "ISBN": "12345465",
+      "Title": "BMW E61 530xd Manual",
+      "Language": "English",
+      "Publishers": "unknownw",
+      "CopiesAvailable": 4
+    }
+  ]
+}
